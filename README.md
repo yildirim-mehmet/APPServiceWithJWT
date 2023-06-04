@@ -1,6 +1,6 @@
 # APPServiceWithJWT Create SQL
 
-/*you can https://learn.microsoft.com/en-us/ef/core/cli/powershell codeFirst methood https://www.entityframeworktutorial.net/efcore/pmc-commands-for-ef-core-migration.aspx */
+/*you can https://learn.microsoft.com/en-us/ef/core/cli/powershell codeFirst methood https://www.entityframeworktutorial.net/efcore/pmc-commands-for-ef-core-migration.aspx or */
 
 USE [master]
 GO
